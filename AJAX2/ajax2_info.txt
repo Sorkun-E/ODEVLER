@@ -1,0 +1,1 @@
+AJAX bir programlama dilidir
